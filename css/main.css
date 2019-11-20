@@ -7,3 +7,11 @@ html {
 li {
   list-style-type: none;
 }
+
+.icon {
+  color: #6feff9;
+}
+
+menu {
+  padding: 0;
+}
